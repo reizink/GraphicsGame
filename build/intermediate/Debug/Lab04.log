@@ -1,0 +1,8 @@
+﻿  main.cpp
+H:\TCD\CGLabWork\SubmissionD3\Lab04\main.cpp(50,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+H:\TCD\CGLabWork\SubmissionD3\Lab04\main.cpp(425,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\TCD\CGLabWork\SubmissionD3\Lab04\main.cpp(449,12): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+H:\TCD\CGLabWork\SubmissionD3\Lab04\main.cpp(453,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+H:\TCD\CGLabWork\SubmissionD3\Lab04\main.cpp(455,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+H:\TCD\CGLabWork\SubmissionD3\Lab04\main.cpp(613,16): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  Lab04.vcxproj -> H:\TCD\CGLabWork\SubmissionD3\build\executables\Debug\Lab 04.exe
